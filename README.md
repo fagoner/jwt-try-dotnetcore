@@ -8,5 +8,5 @@ Simple example for authentication on Dotnet Core
 
 ### Source
 
-[authentication-handler-in-asp-net-core](https://dotnetcorecentral.com/blog/authentication-handler-in-asp-net-core/)
-[Code demo](https://github.com/choudhurynirjhar/auth-demo/tree/master/Auth.Demo)
+- [authentication-handler-in-asp-net-core](https://dotnetcorecentral.com/blog/authentication-handler-in-asp-net-core/)
+- [Code demo](https://github.com/choudhurynirjhar/auth-demo/tree/master/Auth.Demo)
